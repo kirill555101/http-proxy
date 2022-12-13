@@ -1,0 +1,19 @@
+{
+  "name": "http-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy/index.js",
+  "scripts": {
+    "start": "node proxy/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirill555101/http-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirill555101/http-proxy/issues"
+  },
+  "homepage": "https://github.com/kirill555101/http-proxy#readme"
+}
